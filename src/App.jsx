@@ -6,7 +6,7 @@ import {
     Services,
     SpecialOffer,
     SuperQuality,
-} from "../src/sections/";
+} from "../src/Sections/";
 import Subscribe from "./Sections/Subscribe";
 import Nav from "./Components/Nav";
 
