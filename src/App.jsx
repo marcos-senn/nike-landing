@@ -7,7 +7,7 @@ import {
     SpecialOffer,
     SuperQuality,
 } from "../src/sections/";
-import Subscribe from "./sections/Subscribe";
+import Subscribe from "./Sections/Subscribe";
 import Nav from "./Components/Nav";
 
 const App = () => {
