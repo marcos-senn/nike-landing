@@ -3,7 +3,7 @@ import { useState } from "react";
 import Button from "../Components/Button.jsx";
 import ShoeCard from "../Components/ShoeCard.jsx";
 import { arrowRight } from "../assets/icons";
-import { statistics, shoes } from "../constants/index.js";
+import { statistics, shoes } from "../Constants/index.js";
 import { bigShoe1 } from "../assets/images/index.js";
 
 const Hero = () => {
